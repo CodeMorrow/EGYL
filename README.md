@@ -1,4 +1,3 @@
-# EGYL
 <!DOCTYPE html>
 <html>
 	<head>
